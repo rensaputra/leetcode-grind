@@ -12,8 +12,10 @@ Focusing on clean logic in **JavaScript** and **Java**.
 
 ## 📊 Progress
 
-| #   | Problem            | Pattern | Difficulty | Solution                                                      |
-| --- | ------------------ | ------- | ---------- | ------------------------------------------------------------- |
-| 1   | Two Sum            | Hashing | Easy       | [JS](./patterns/01_hashing/two_sum/JS/solution.js)            |
-| 2   | Contains Duplicate | Hashing | Easy       | [JS](./patterns/01_hashing/contains_duplicate/JS/solution.js) |
-| 3   | Group Anagrams     | Hashing | Medium     | [JS](./patterns/01_hashing/group_anagrams/JS/solution.js)     |
+| #   | Problem                      | Pattern | Difficulty | Solution                                                                |
+| --- | ---------------------------- | ------- | ---------- | ----------------------------------------------------------------------- |
+| 1   | Two Sum                      | Hashing | Easy       | [JS](./patterns/01_hashing/two_sum/JS/solution.js)                      |
+| 2   | Contains Duplicate           | Hashing | Easy       | [JS](./patterns/01_hashing/contains_duplicate/JS/solution.js)           |
+| 3   | Group Anagrams               | Hashing | Medium     | [JS](./patterns/01_hashing/group_anagrams/JS/solution.js)               |
+| 4   | Top K Frequent               | Hashing | Medium     | [JS](./patterns/01_hashing/top_k_frequent_elements/JS/solution.js)      |
+| 5   | Longest Consecutive Sequence | Hashing | Medium     | [JS](./patterns/01_hashing/longest_consecutive_sequence/JS/solution.js) |

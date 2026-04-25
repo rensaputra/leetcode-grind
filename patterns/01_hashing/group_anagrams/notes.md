@@ -19,4 +19,4 @@ Explanation:
 ## Complexity Breakdown
 
 - Time: O(n \* k log k), where n is the number of strings and k is the length of the longest string. Sorting each string takes k log k.
-- Space: O(n \* k), since we are sotring each character of every string in the Map.
+- Space: O(n \* k), since we are storing each character of every string in the Map.
