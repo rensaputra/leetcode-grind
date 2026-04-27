@@ -21,3 +21,4 @@ Focusing on clean logic in **JavaScript** and **Java**.
 | 5   | Longest Consecutive Sequence       | Hashing      | Medium     | [JS](./patterns/01_hashing/longest_consecutive_sequence/JS/solution.js) |
 | 6   | Valid Palindrome                   | Two Pointers | Easy       | [JS](./patterns/02_two_pointers/valid_palindrome/JS/solution.js)        |
 | 7   | Two Sum II - Input Array is Sorted | Two Pointers | Medium     | [JS](./patterns/02_two_pointers/two_sum_II/JS/solution.js)              |
+| 8   | 3Sum                               | Two Pointers | Medium     | [JS](./patterns/02_two_pointers/3Sum/JS/solution.js)                    |
