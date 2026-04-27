@@ -23,3 +23,4 @@ Focusing on clean logic in **JavaScript** and **Java**.
 | 7   | Two Sum II - Input Array is Sorted | Two Pointers | Medium     | [JS](./patterns/02_two_pointers/two_sum_II/JS/solution.js)                |
 | 8   | 3Sum                               | Two Pointers | Medium     | [JS](./patterns/02_two_pointers/3sum/JS/solution.js)                      |
 | 9   | Container with Most Water          | Two Pointers | Medium     | [JS](./patterns/02_two_pointers/container_with_most_water/JS/solution.js) |
+| 10  | Trapping Rain Water                | Two Pointers | Hard       | [JS](./patterns/02_two_pointers/trapping_rain_water/JS/solution.js)       |
