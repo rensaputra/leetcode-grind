@@ -26,3 +26,5 @@ Focusing on clean logic in **JavaScript** and **Java**.
 | 10  | Trapping Rain Water                            | Two Pointers   | Hard       | [JS](./patterns/02_two_pointers/trapping_rain_water/JS/solution.js)                              |
 | 11  | Best Time to Buy and Sell Stock                | Sliding Window | Easy       | [JS](./patterns/03_sliding_window/best_time_to_buy_sell_stock/JS/solution.js)                    |
 | 12  | Longest Substring Without Repeating Characters | Sliding Window | Medium     | [JS](./patterns/03_sliding_window/longest_substring_without_repeating_characters/JS/solution.js) |
+| 13  | Longest Repeating Character Replacement        | Sliding Window | Medium     | [JS](./patterns/03_sliding_window/longest_repeating_character_replacement/JS/solution.js)        |
+| 14  | Minimum Window Substring                       | Sliding Window | Hard       | [JS](./patterns/03_sliding_window/minimum_window_substring/JS/solution.js)                       |
